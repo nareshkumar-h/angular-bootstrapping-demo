@@ -21,3 +21,5 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
 ```
 
+#### Console Output:
+* Angular is running in the development mode. Call enableProdMode() to enable the production mode.
