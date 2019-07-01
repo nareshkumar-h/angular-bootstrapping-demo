@@ -22,4 +22,9 @@ platformBrowserDynamic().bootstrapModule(AppModule)
 ```
 
 #### Console Output:
-* Angular is running in the development mode. Call enableProdMode() to enable the production mode.
+* ng serve
+* Browser Console Output:
+```
+Angular is running in the development mode. Call enableProdMode() to enable the production mode.
+```
+
